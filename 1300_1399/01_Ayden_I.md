@@ -4,7 +4,7 @@ Ayden I was the second king of Willow Creek. He was born in 1296 to King Dustin 
 ## Spouses
 
 ### Diane (1292 - 1356)
-Diane was the only wife of Dustin. Diane was born in 1292 and eventually married Ayden in 1310. The royal couple had one recorded son together, named Victor.
+Diane was the only wife of Ayden. Diane was born in 1292 and eventually married Ayden in 1310. The royal couple had one recorded son together, named Victor.
 
 The royal couple held the record of the longest married couple in royal history at 46 years.
 
