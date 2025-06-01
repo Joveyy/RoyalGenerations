@@ -1,5 +1,5 @@
 # Victor I (1366 - 1376)
-Victor I was the third king of Willow Creek. He was born in 1312 to King Ayden I and Princess Diane. He ascended to the throne at the age of 54 upon the passing of his father, King Ayden. Victor passed away in 1376 at the age of 64, having the longest reign at 10 years.
+Victor I was the third king of Willow Creek. He was born in 1312 to King Ayden I and Princess Diane. He ascended to the throne at the age of 54 upon the passing of his father, King Ayden. Victor passed away in 1376 at the age of 64, having a reign of 10 years.
 
 ## Spouses
 
