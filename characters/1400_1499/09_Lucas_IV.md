@@ -1,3 +1,6 @@
+| Prev (1467-1496) | Next (1508-1521) |
+| ---- | ---- |
+| [Lucas III] | [Lucas V] |
 # Lucas IV (1496 - 1508)
 Lucas IV was the tenth monarch of Willow Creek and the eighth King of Willow Creek. He was born in 1443 to King Lucas III and Princess Ryleigh. He ascended to the throne at the age of 53 upon the passing of his father, King Lucas III.
 
@@ -10,3 +13,6 @@ Melina succeeded him in death. Melina lived to the age of 68 years of age, dying
 
 ## Death
 Lucas IV passed away in 1508 at the age of 65.
+
+[Lucas III]: /characters/1400_1499/08_Lucas_III.md
+[Lucas V]: /characters/1500_1599/10_Lucas_V.md
