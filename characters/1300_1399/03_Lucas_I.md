@@ -1,3 +1,6 @@
+| Prev (1366 - 1376) | Next (1386 - 1390) |
+| ---- | ---- |
+| [Victor I] | [Cheryl I] |
 # Lucas I (1376 - 1386)
 Lucas I was the fourth king of Willow Creek. He was born in 1338 to King Victor I and Queen Izabella. He ascended to the throne at the age of 38 upon the passing of his father, King Victor. Lucas passed away in 1386 at the age of 48, having a reign of 10 years.
 
@@ -17,3 +20,6 @@ Lucas preceded her in death. Marielle lived to the age of 84 years of age, dying
 Kate was the third and last wife of Lucas. Kate was born in 1365 and eventually married Lucas in 1384. The royal couple didn't have anything noted or groundbreaking throughout the two year marriage.
 
 Lucas preceded her in death. Kate lived to the age of 82 years of age, dying in 1447.
+
+[Victor I]: 02_Victor_I.md
+[Cheryl I]: 04_Cheryl_I.md
