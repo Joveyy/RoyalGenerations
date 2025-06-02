@@ -71,7 +71,7 @@
 | Lucas X | 2700-2757 | 2714-2757 | 43 years | 14-57 | Brother |
 | Beatrix II | 2739-2919 | 2757-2919 | 162 years | 18-180 | Niece |
 | George X | 2840-2926 | 2919-2926 | 7 years | 79-86 | Great(2x)-Grandson |
-| Lucas XI | 2852-2933 | 2926-2933 | 7 years | 74-81 | Son |
+| Lucas XI | 2852-2933<sub>[?]</sub> | 2926-2933 | 7 years | 74-81<sub>[?]</sub> | Son<sub>[?]</sub> |
 | Dustin III | 2879-2940 | 2933-2940 | 7 years | 54-61 | Son |
 | George XI | 2900- | 2940- | >79 years | 40- | Son |
 
@@ -79,3 +79,4 @@
 <span id="b">^[b]: Adopted, Foster, or non-biological</span><br>
 <span id="c">^[c]: Co-regnant (more than one individual reigning)</span><br>
 <span id="d">^[d]: Non-consecutive reigns</span><br>
+<span id="questionable">^[?]: Calendar system could be inputted incorrectly when this individual was born</span><br>
