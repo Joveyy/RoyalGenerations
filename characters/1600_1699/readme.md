@@ -2,8 +2,8 @@
 | - | - | - |
 | [1500s] | 1600s | [1700s] |
 
-[1500s]: ../1500_1599/
-[1700s]: ../1700_1799/
+[1500s]: ../1500_1599/readme.md
+[1700s]: ../1700_1799/readme.md
 ## Monarchs that Reigned this Century
 | Monarch | Lifespan | Tenure | Reign | Notes |
 | ------- | ------- | ------- | ----- | ------- |
