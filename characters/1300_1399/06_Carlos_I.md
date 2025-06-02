@@ -1,3 +1,6 @@
+| Prev (1390-1397) | Next (1460-1467) |
+| ---- | ---- |
+| [Trevor I] | [Lucas II] |
 # Carlos I (1397 - 1460)
 Carlos I was the seventh monarch of Willow Creek and the fifth King of Willow Creek. He was born in 1379 to Queen Cheryl and Prince Neil. He ascended to the throne at the age of 18 upon the passing of his brother, King Trevor.
 
@@ -13,3 +16,6 @@ Carlos celebrated his Silver Jubilee privately in 1422, becoming the first monar
 
 ## Later Life & Death
 Carlos was seen as a shining light in Willow Creek, who was seen to be in good spirits and health up until just days before his death. Carlos became the oldest monarch after surpassing Ayden's record in 70 years in 1449.
+
+[Trevor I]: 05_Trevor_I.md
+[Lucas II]: ../1400_1499/07_Lucas_II.md
