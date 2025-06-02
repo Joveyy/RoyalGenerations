@@ -10,7 +10,7 @@
 | ------- | ------- | ------- | ----- | ------- |
 | Louise II | 1829-1945 | 1863-1945 | 82 years  |<li>First co-reigning monarch</li><li>First monarch to reign as a supercentenarian</li>|
 | Josephine I | 1866-1987 | 1945-1987 | 42 years  |<li>First monarch to reach the age of 120</li>|
-| George V | 1926-2001 | 1987-2001 | 14 years  |<li>Last heterosexual monarch of the Biological line</li>|
+| George V | 1926-2001 | 1987-2001 | 14 years  ||
 
 ## Monarchs born this Century
 | Monarch | Born | Reign |
