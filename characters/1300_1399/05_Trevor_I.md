@@ -1,5 +1,5 @@
 # Trevor I (1390 - 1397)
-Trevor I was the sixth monarch of Willow Creek and the fourth King of Willow Creek. He was born in 1373 to Queen Cheryl and Prince Neil. She ascended to the throne at the age of 17 upon the passing of his mother, Queen Cheryl.
+Trevor I was the sixth monarch of Willow Creek and the fourth King of Willow Creek. He was born in 1373 to Queen Cheryl and Prince Neil. He ascended to the throne at the age of 17 upon the passing of his mother, Queen Cheryl.
 
 ## Spouses
 
