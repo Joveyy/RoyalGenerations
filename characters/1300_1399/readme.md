@@ -20,7 +20,6 @@
 
 
 ## Monarchs died this Century
-No monarchs have died during this century
 | Monarch | Died | Age |
 | ------- | ------- | ----- |
 | Dustin I | 1317 | 45 years |
