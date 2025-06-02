@@ -57,10 +57,10 @@
 | George IX | 2479-2579 | 2562-2579 | 17 years | 83-100 | Son |
 | Lucas IX | 2497-2597 | 2579-2597 | 18 years | 82-100 | Son |
 | Leonard I | 2516-2618 | 2597-2618 | 21 years | 81-102 | Son |
-| Leonard II | 2609-2665 | 2618-2631<sub>[d]</sub> | 13 years | 9-22 | Son |
-| Eleanor I | 2562-2653 (91) | 2631-2633<sub>[d]</sub> | 2 years | 69-71 | ? |
+| Leonard II | 2609-2665 | 2618-2631<sub>[d]</sub><sub>[e]</sub> | 13 years | 9-22 | Son |
+| Eleanor I | 2562-2653 (91) | 2631-2633<sub>[d]</sub><sub>[f]</sub> | 2 years | 69-71 | ? |
 | Humberto I | 2554-2659 (105) | 2633-2637<sub>[d]</sub> | 4 years | 79-83 | Husband |
-| Eleanor I | | 2637-2641<sub>[d]</sub> | 4 years | 75-79 | Wife |
+| Eleanor I | | 2637-2641<sub>[d]</sub><sub>[f]</sub> | 4 years | 75-79 | Wife |
 | Humberto I | | 2641-2643<sub>[d]</sub> | 2 years | 87-89 | Husband |
 | Anne II | 2605-2672 | 2643-2654<sub>[d]</sub> | 11 years | 38-49 | Daughter |
 | Leonard II | | 2654-2665<sub>[d]</sub> | 11 years | 45-56 | ? |
@@ -75,8 +75,10 @@
 | Dustin III | 2879-2940 | 2933-2940 | 7 years | 54-61 | Son |
 | George XI | 2900- | 2940- | >79 years | 40- | Son |
 
-<span id="a">^[a]: Abdicated</span><br>
-<span id="b">^[b]: Adopted, Foster, or non-biological</span><br>
-<span id="c">^[c]: Co-regnant (more than one individual reigning)</span><br>
-<span id="d">^[d]: Non-consecutive reigns</span><br>
-<span id="questionable">^[?]: Calendar system could be inputted incorrectly when this individual was born</span><br>
+<span id="a">^[a]: Abdicated (recent: 1802)</span><br>
+<span id="b">^[b]: Adopted, Foster, or non-biological  (recent: 2006)</span><br>
+<span id="c">^[c]: Co-regnant; more than one individual reigning  (recent: 1863-97)</span><br>
+<span id="d">^[d]: Non-consecutive reigns  (recent: 2665-72)</span><br>
+<span id="d">^[e]: Expelled (Impeached) from rule  (recent: 2631)</span><br>
+<span id="d">^[f]: Felon *(Eleanor was found to be involved in the imprisonment of Leonard II)*</span><br>
+<span id="questionable">^[?]: Calendar system could be inputted incorrectly when this individual was born *(I am unable to verify their birth years are correct)*</span><br>
