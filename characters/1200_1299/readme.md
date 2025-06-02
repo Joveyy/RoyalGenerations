@@ -2,7 +2,7 @@
 | - | - | - |
 | Coming Soon | 1200s | [1300s] |
 
-[1300s]: ../1200_1299/
+[1300s]: ../1200_1299/readme.md
 ## Monarchs that Reigned this Century
 | Monarch | Lifespan | Tenure | Reign | Ages | Notes |
 | ------- | ------- | ------- | ------- | ------- | ------- |
