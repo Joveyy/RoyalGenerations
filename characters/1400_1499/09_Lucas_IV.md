@@ -1,4 +1,4 @@
-# Lucas IV (1443 - 1508)
+# Lucas IV (1496 - 1508)
 Lucas IV was the tenth monarch of Willow Creek and the eighth King of Willow Creek. He was born in 1443 to King Lucas III and Princess Ryleigh. He ascended to the throne at the age of 53 upon the passing of his father, King Lucas III.
 
 ## Spouses
