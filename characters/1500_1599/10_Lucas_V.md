@@ -14,5 +14,5 @@ Katrina preceded him in death. Katrina lived to the age of 72 years of age, dyin
 ## Death
 Lucas V passed away in 1521 at the age of 62.
 
-[Lucas IV]: /characters/1400_1499/9_Lucas_IV.md
+[Lucas IV]: /characters/1400_1499/09_Lucas_IV.md
 [Mary I]: /characters/1500_1599/11_Mary_I.md
