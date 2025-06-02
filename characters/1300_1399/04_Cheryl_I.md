@@ -1,5 +1,5 @@
-# Cheryl I (1356 - 1390)
-Cheryl I was the fifth monarch of Willow Creek and the first Queen of Willow Creek. She was born in 1339 to King Lucas I and Princess Juniper. She ascended to the throne at the age of 30 upon the passing of his father, King Victor. Cheryl passed away in 1390 at the age of 34, having the shortest reign at 4 years.
+# Cheryl I (1386 - 1390)
+Cheryl I was the fifth monarch of Willow Creek and the first Queen of Willow Creek. She was born in 1356 to King Lucas I and Princess Juniper. She ascended to the throne at the age of 30 upon the passing of his father, King Victor. Cheryl passed away in 1390 at the age of 34, having the shortest reign at 4 years.
 
 ## Spouses
 
