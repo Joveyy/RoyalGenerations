@@ -1,5 +1,5 @@
-# Lucas I (1338 - 1386)
-Lucas I was the fourth king of Willow Creek. He was born in 1339 to King Victor I and Queen Izabella. He ascended to the throne at the age of 38 upon the passing of his father, King Victor. Lucas passed away in 1386 at the age of 48, having a reign of 10 years.
+# Lucas I (1376 - 1386)
+Lucas I was the fourth king of Willow Creek. He was born in 1338 to King Victor I and Queen Izabella. He ascended to the throne at the age of 38 upon the passing of his father, King Victor. Lucas passed away in 1386 at the age of 48, having a reign of 10 years.
 
 ## Spouses
 
