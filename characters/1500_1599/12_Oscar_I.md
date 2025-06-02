@@ -1,5 +1,5 @@
 # Oscar I (1524 - 1597)
-Oscar I was the thirteenth monarch of Willow Creek and the x King of Willow Creek. He was born in 1502 to Queen Mary I and Prince Jayden. He ascended to the throne at the age of 22 upon the passing of his mother, Queen Mary.
+Oscar I was the thirteenth monarch of Willow Creek and the eleventh King of Willow Creek. He was born in 1502 to Queen Mary I and Prince Jayden. He ascended to the throne at the age of 22 upon the passing of his mother, Queen Mary.
 
 ## Spouses
 
