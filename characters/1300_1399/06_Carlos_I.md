@@ -1,4 +1,4 @@
-# Carlos I (1379 - 1460)
+# Carlos I (1397 - 1460)
 Carlos I was the seventh monarch of Willow Creek and the fifth King of Willow Creek. He was born in 1379 to Queen Cheryl and Prince Neil. He ascended to the throne at the age of 18 upon the passing of his brother, King Trevor.
 
 ## Spouses
