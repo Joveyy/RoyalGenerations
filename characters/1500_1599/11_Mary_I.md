@@ -1,3 +1,6 @@
+| Prev (1508 - 1521) | Next (1524 - 1597) |
+| ---- | ---- |
+| [Lucas V] | [Oscar I] |
 # Mary I (1521 - 1524)
 Mary I was the twelfth monarch of Willow Creek and the second Queen of Willow Creek. She was born in 1475 to King Lucas V and Princess Katrina. She ascended to the throne at the age of 46 upon the passing of his father, King Lucas V.
 
@@ -10,3 +13,6 @@ Jayden succeeded her in death. Jayden lived to the age of 93 years of age, dying
 
 ## Death
 Mary I passed away in 1524 at the age of 49.
+
+[Lucas V]: 10_Lucas_V.md
+[Oscar I]: 12_Oscar_I.md
