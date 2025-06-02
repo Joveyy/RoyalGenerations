@@ -1,5 +1,5 @@
 # Lucas III (1420 - 1496)
-Lucas III was the ninth monarch of Willow Creek and the seventh King of Willow Creek. He was born in 1402 to King Carlos and Princess Lucia. He ascended to the throne at the age of 47 upon the passing of his father, King Lucas II.
+Lucas III was the ninth monarch of Willow Creek and the seventh King of Willow Creek. He was born in 1420 to King Lucas II and Princess Nadine. He ascended to the throne at the age of 47 upon the passing of his father, King Lucas II.
 
 ## Spouses
 
