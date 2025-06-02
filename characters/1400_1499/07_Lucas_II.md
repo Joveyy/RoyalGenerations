@@ -1,3 +1,6 @@
+| Prev (1397-1460) | Next (1467-1496) |
+| ---- | ---- |
+| [Carlos] | [Lucas III] |
 # Lucas II (1460 - 1467)
 Lucas II was the eighth monarch of Willow Creek and the sixth King of Willow Creek. He was born in 1402 to King Carlos and Princess Lucia. He ascended to the throne at the age of 58 upon the passing of his father, King Carlos.
 
@@ -10,3 +13,6 @@ Nadine preceded him in death. Nadine lived to the age of 54 years of age, dying 
 
 ## Later Life & Death
 Lucas II was different from his father, being a bit unhealthy compared to his father, Carlos. Lucas II had often been overwhelmed by heartbreak and stress after finding out about Nadine's affair and later the passing of Carlos. Lucas II passed away in 1467 at the age of 65.
+
+[Carlos]: /characters/1300_1399/06_Carlos_I.md
+[Lucas III]: /characters/1400_1499/08_Lucas_III.md
