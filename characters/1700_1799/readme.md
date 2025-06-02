@@ -2,8 +2,8 @@
 | - | - | - |
 | [1600s] | 1700s | [1800s] |
 
-[1600s]: ../1600_1699/
-[1800s]: ../1800_1899/
+[1600s]: ../1600_1699/readme.md
+[1800s]: ../1800_1899/readme.md
 
 ## Monarchs that Reigned this Century
 Only **Queen Victoria I** reigned this century.
