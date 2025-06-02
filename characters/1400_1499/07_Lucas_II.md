@@ -1,4 +1,4 @@
-# Lucas II (1402 - 1467)
+# Lucas II (1460 - 1467)
 Lucas II was the eighth monarch of Willow Creek and the sixth King of Willow Creek. He was born in 1402 to King Carlos and Princess Lucia. He ascended to the throne at the age of 58 upon the passing of his father, King Carlos.
 
 ## Spouses
