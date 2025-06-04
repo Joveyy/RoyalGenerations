@@ -91,6 +91,15 @@
 [Oscar I]: 1500_1599/12_Oscar_I.md
 [Lucas VI]: 1500_1599/13_Lucas_VI.md
 
+### Prequels
+
+| Monarch  | Lifespan  | Tenure | Reign | Ages | Relation to Last Monarch |
+| ------- | ------- | - | ------- | ------- | ------- |
+| Maeve | 1290 BC - ? | 1272 BC | >0 years | 18-? | |
+| Mara [^p] | 1218 - 1289 | 1256 - 1272 | 16 years | 38-54 | |
+
+[^p]: This individual has not been created yet
+
 [^a]: Abdicated
 [^b]: Adopted, Foster, or non-biological
 [^c]: Co-regnant; more than one individual reigning
