@@ -8,3 +8,11 @@ Mara was the Princess of Willow Creek, Duchess of Foundry Cove and Countess of n
 No spouses are known.
 
 [Dustin I]: ../1200_1299/00_Dustin_I.md
+
+
+## Relations
+| Relation | Link |
+| -------- | ---- |
+| Father | ? |
+| Mother | ? |
+| Issue | [Dustin I] |
