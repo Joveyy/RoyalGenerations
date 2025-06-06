@@ -96,6 +96,7 @@
 | Monarch  | Lifespan  | Tenure | Reign | Ages | Relation to Last Monarch |
 | ------- | ------- | - | ------- | ------- | ------- |
 | Maeve | 1290 BC - ? | 1272 BC | >0 years | 18-? | |
+| Alaric | 1270 BC - ? | ? | ? | ? | |
 | Mara [^p] | 1218 - 1289 | 1256 - 1272 | 16 years | 38-54 | |
 
 [^p]: This individual has not been created yet
