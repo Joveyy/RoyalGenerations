@@ -95,10 +95,15 @@
 
 | Monarch  | Lifespan  | Tenure | Reign | Ages | Relation to Last Monarch |
 | ------- | ------- | - | ------- | ------- | ------- |
-| Maeve | 1290 BC - 1253 BC | 1272 BC - 1253 BC | 19 years | 18-37 | |
-| Alaric | 1270 BC - ? | 1253 BC - ? | >0 years | 17-? | Son |
-| Crawlach | 1252 BC - ? | ? | ? | ? | Son |
+| [Maeve] | 1290 BC - 1253 BC | 1272 BC - 1253 BC | 19 years | 18-37 | |
+| [Alaric] | 1270 BC - 1243 BC | 1253 BC - 1243 BC | 9 years | 17-26 | Son |
+| [Crawlach] | 1252 BC - ? | 1243 BC - ? | >0 years | 9-? | Son |
 | Mara [^p] | 1218 - 1289 | 1256 - 1272 | 16 years | 38-54 | |
+
+
+[Maeve]: BC_1299_1200/PQ_00_Maeve.md
+[Alaric]: BC_1299_1200/PQ_01_Alaric.md
+[Crawlach]: BC_1299_1200/PQ_02_Crawlach.md
 
 [^p]: This individual has not been created yet
 
