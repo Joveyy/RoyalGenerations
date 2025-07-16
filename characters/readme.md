@@ -97,15 +97,21 @@
 | ------- | ------- | - | ------- | ------- | ------- |
 | [Maeve] | 1290 BC - 1253 BC | 1272 BC - 1253 BC | 19 years | 18-37 | |
 | [Alaric] | 1270 BC - 1243 BC | 1253 BC - 1243 BC | 9 years | 17-26 | Son |
-| [Crawlach] | 1252 BC - ? | 1243 BC - ? | >0 years | 9-? | Son |
+| [Crawlach] | 1252 BC - 1218 BC | 1243 BC - 1218 BC | 25 years | 9-34 | Son |
+| [Vaughan] | 1236 BC - 1215 BC | 1218 BC - 1215 BC | 3 years | 18-21 | Son |
+| [Maeve II] | 1219 BC - ? | 1215 BC - ? | >29 years | 3-? | Daughter |
+| [Ewan] | 1205 BC - ? | ? - ? | ? years | ? | Son |
+| [Aedan] | 1187 BC - ? | ? - ? | ? years | ? | Grandson[^k] |
 | Mara [^p] | 1218 - 1289 | 1256 - 1272 | 16 years | 38-54 | |
 
 
 [Maeve]: BC_1299_1200/PQ_00_Maeve.md
 [Alaric]: BC_1299_1200/PQ_01_Alaric.md
 [Crawlach]: BC_1299_1200/PQ_02_Crawlach.md
+[Vaughan]: BC_1299_1200/PQ_03_Vaughan.md
 
 [^p]: This individual has not been created yet
+[^k]: Was a conjoined twin, but born after/from the domain. Referred to as a Grandchild.
 
 [^a]: Abdicated
 [^b]: Adopted, Foster, or non-biological
