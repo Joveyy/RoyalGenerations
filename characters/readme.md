@@ -99,9 +99,10 @@
 | [Alaric] | 1270 BC - 1243 BC | 1253 BC - 1243 BC | 9 years | 17-26 | Son |
 | [Crawlach] | 1252 BC - 1218 BC | 1243 BC - 1218 BC | 25 years | 9-34 | Son |
 | [Vaughan] | 1236 BC - 1215 BC | 1218 BC - 1215 BC | 3 years | 18-21 | Son |
-| [Maeve II] | 1219 BC - ? | 1215 BC - ? | >29 years | 3-? | Daughter |
-| [Ewan] | 1205 BC - ? | ? - ? | ? years | ? | Son |
-| [Aedan] | 1187 BC - ? | ? - ? | ? years | ? | Grandson[^k] |
+| [Maeve II] | 1219 BC - 1163 BC | 1215 BC - 1163 BC | 52 years | 3-56 | Daughter |
+| [Ewan] | 1205 BC - 1157 BC | 1163 BC - 1157 BC | 6 years | 42-48 | Son |
+| [Aedan] | 1187 BC - ? | ? - ? | >1 year | 30-? | Grandson[^k] |
+| [Jack] | 1165 BC - ? | ? - ? | ? | ? | Son |
 | Mara [^p] | 1218 - 1289 | 1256 - 1272 | 16 years | 38-54 | |
 
 
