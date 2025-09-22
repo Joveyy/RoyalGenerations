@@ -100,9 +100,16 @@
 | [Crawlach] | 1252 BC - 1218 BC | 1243 BC - 1218 BC | 25 years | 9-34 | Son |
 | [Vaughan] | 1236 BC - 1215 BC | 1218 BC - 1215 BC | 3 years | 18-21 | Son |
 | [Maeve II] | 1219 BC - 1163 BC | 1215 BC - 1163 BC | 52 years | 3-56 | Daughter |
-| [Ewan] | 1205 BC - 1157 BC | 1163 BC - 1157 BC | 6 years | 42-48 | Son |
-| [Aedan] | 1187 BC - ? | ? - ? | >1 year | 30-? | Grandson[^k] |
-| [Jack] | 1165 BC - ? | ? - ? | ? | ? | Son |
+| [Ewan I] | 1205 BC - 1157 BC | 1163 BC - 1157 BC | 6 years | 42-48 | Son |
+| [Aedan] | 1187 BC - 1144 BC | 1157 BC - 1144 BC | 13 years | 30-43 | Grandson[^k] |
+| [Jack] | 1165 BC - 1097 BC | 1144 BC - 1097 BC | 47 years | 21-68 | Son |
+| [Ivor] | 1145 BC - 1084 BC | 1097 BC - 1084 BC | 13 years | 48-61 | Son |
+| [Ewan II] | 1127 BC - 1078 BC | 1084 BC - 1078 BC | 6 years | 43-49 | Son |
+| [Brynja I] | 1118 BC - 1057 BC | 1078 BC - 1057 BC | 21 years | 40-61 | Daughter[^g] |
+| [Andre I] | 1098 BC - 1037 BC | 1057 BC - 1037 BC | 20 years | 41-61 | Son |
+| [Brynja II] | 1070 BC - 1007 BC | 1037 BC - 1007 BC | 30 years | 33-63 | Daughter |
+| [Andre II] | 1050 BC - 990 BC | 1007 BC - 990 BC | 17 years | 43-60 | Son |
+| [Andreya I] | 1026 BC - ? | 990 BC - ? | >1 year | 36-? | Daughter |
 | Mara [^p] | 1218 - 1289 | 1256 - 1272 | 16 years | 38-54 | |
 
 
