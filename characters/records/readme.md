@@ -1,4 +1,4 @@
-# World Records
+# World Records (Original)
 
 ## Oldest Ever (Royalty)
 <table>
@@ -62,14 +62,13 @@
       <td>Marriage💍</td>
       <td>2729</td>
       <td>2850</td>
-      <td>121 years</td>
+      <td rowspan=2>121 years</td>
     </tr>
     <tr>
       <td>Queen Josephine</td>
       <td>Marriage💍</td>
       <td>1866</td>
       <td>1987</td>
-      <td>121 years</td>
     </tr>
     <tr>
       <td>8</td>
@@ -135,14 +134,13 @@
       <td>George IX <sub>(2479-2579)</sub><br> Sheila <sub>(2483-2584)</sub> </td>
       <td>2494</td>
       <td>2579</td>
-      <td>85 years</td>
+      <td rowspan=2>85 years</td>
       <td>Death</td>
     </tr>
     <tr>
       <td>George VIII <sub>(2465-2562)</sub><br> Avani <sub>(2463-2635)</sub></td>
       <td>2477</td>
       <td>2562</td>
-      <td>85 years</td>
       <td>Death</td>
     </tr>
     <tr>
@@ -152,6 +150,103 @@
       <td>2468</td>
       <td>80 years</td>
       <td>Death</td>
+    </tr>
+  </tbody>
+</table>
+
+# World Records (Prequels)
+
+## Oldest Ever (Royalty)
+<table>
+  <thead>
+    <tr>
+      <th rowspan=2>#</th>
+      <th rowspan=2>Person</th>
+      <th rowspan=2>Category</th>
+      <th colspan=2>Lifespan</th>
+      <th rowspan=2>Age</th>
+    </tr>
+    <tr>
+      <th>Birth</th>
+      <th>Death</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>King Saul</td>
+      <td>Marriage💍</td>
+      <td>1108 BC</td>
+      <td>997 BC</td>
+      <td>111 years</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>King Alfred</td>
+      <td>Marriage💍</td>
+      <td>1105 BC</td>
+      <td>1031 BC</td>
+      <td>74 years</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>King Rian</td>
+      <td>Marriage💍</td>
+      <td>1131 BC</td>
+      <td>1061 BC</td>
+      <td>70 years</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>King Jack</td>
+      <td>Blood🩸</td>
+      <td>1165 BC</td>
+      <td>1097 BC</td>
+      <td>68 years</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Queen Brynja II</td>
+      <td>Blood🩸</td>
+      <td>1070 BC</td>
+      <td>1007 BC</td>
+      <td>63 years</td>
+    </tr>
+    <tr>
+      <td rowspan=3>6</td>
+      <td>King Andre I</td>
+      <td>Blood🩸</td>
+      <td>1098 BC</td>
+      <td>1037 BC</td>
+      <td rowspan=3>61 years</td>
+    </tr>
+    <tr>
+      <td>Queen Brynja I</td>
+      <td>Blood🩸</td>
+      <td>1118 BC</td>
+      <td>1057 BC</td>
+    </tr>
+    <tr>
+      <td>King Ivor I</td>
+      <td>Blood🩸</td>
+      <td>1145 BC</td>
+      <td>1084 BC</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>King Andre II</td>
+      <td>Blood🩸</td>
+      <td>1050 BC</td>
+      <td>990 BC</td>
+      <td>60 years</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Maeve II</td>
+      <td>Blood🩸</td>
+      <td>1219 BC</td>
+      <td>1163 BC</td>
+      <td>56 years</td>
     </tr>
   </tbody>
 </table>
