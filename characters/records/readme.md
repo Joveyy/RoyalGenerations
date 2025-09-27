@@ -206,6 +206,14 @@
     </tr>
     <tr>
       <td>5</td>
+      <td>Queen Andreya I</td>
+      <td>Blood🩸</td>
+      <td>1026 BC</td>
+      <td>Living</td>
+      <td>64 years</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Queen Brynja II</td>
       <td>Blood🩸</td>
       <td>1070 BC</td>
@@ -213,7 +221,15 @@
       <td>63 years</td>
     </tr>
     <tr>
-      <td rowspan=3>6</td>
+      <td>7</td>
+      <td>King Deven</td>
+      <td>Marriage💍</td>
+      <td>1024 BC</td>
+      <td>Living</td>
+      <td>62 years</td>
+    </tr>
+    <tr>
+      <td rowspan=3>8</td>
       <td>King Andre I</td>
       <td>Blood🩸</td>
       <td>1098 BC</td>
@@ -231,22 +247,6 @@
       <td>Blood🩸</td>
       <td>1145 BC</td>
       <td>1084 BC</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>King Andre II</td>
-      <td>Blood🩸</td>
-      <td>1050 BC</td>
-      <td>990 BC</td>
-      <td>60 years</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Maeve II</td>
-      <td>Blood🩸</td>
-      <td>1219 BC</td>
-      <td>1163 BC</td>
-      <td>56 years</td>
     </tr>
   </tbody>
 </table>
