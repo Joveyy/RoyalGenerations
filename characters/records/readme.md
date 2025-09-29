@@ -189,44 +189,40 @@
       <td>74 years</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>King Rian</td>
-      <td>Marriage💍</td>
-      <td>1131 BC</td>
-      <td>1061 BC</td>
-      <td>70 years</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>King Jack</td>
-      <td>Blood🩸</td>
-      <td>1165 BC</td>
-      <td>1097 BC</td>
-      <td>68 years</td>
-    </tr>
-    <tr>
-      <td>5</td>
+      <td rowspan=2>3</td>
       <td>Queen Andreya I</td>
       <td>Blood🩸</td>
       <td>1026 BC</td>
       <td>Living</td>
-      <td>64 years</td>
+      <td rowspan=2>70 years</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>King Rian</td>
+      <td>Marriage💍</td>
+      <td>1131 BC</td>
+      <td>1061 BC</td>
+    </tr>
+    <tr>
+      <td rowspan=2>5</td>
+      <td>King Deven</td>
+      <td>Marriage💍</td>
+      <td>1024 BC</td>
+      <td>Living</td>
+      <td rowspan=2>68 years</td>
+    </tr>
+    <tr>
+      <td>King Jack</td>
+      <td>Blood🩸</td>
+      <td>1165 BC</td>
+      <td>1097 BC</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>Queen Brynja II</td>
       <td>Blood🩸</td>
       <td>1070 BC</td>
       <td>1007 BC</td>
       <td>63 years</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>King Deven</td>
-      <td>Marriage💍</td>
-      <td>1024 BC</td>
-      <td>Living</td>
-      <td>62 years</td>
     </tr>
     <tr>
       <td rowspan=3>8</td>
