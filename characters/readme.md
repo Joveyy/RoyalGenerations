@@ -109,7 +109,16 @@
 | [Andre I] | 1098 BC - 1037 BC | 1057 BC - 1037 BC | 20 years | 41-61 | Son |
 | [Brynja II] | 1070 BC - 1007 BC | 1037 BC - 1007 BC | 30 years | 33-63 | Daughter |
 | [Andre II] | 1050 BC - 990 BC | 1007 BC - 990 BC | 17 years | 43-60 | Son |
-| [Andreya I] | 1026 BC - ? | 990 BC - ? | >1 year | 36-? | Daughter |
+| [Andreya I] | 1026 BC - 948 BC | 990 BC - 948 BC | 42 years | 36-78 | Daughter |
+| [Andre III] | 1005 BC - 938 BC | 948 BC - 938 BC | 10 years | 57-67 | Son |
+| [Andre IV] | 985 BC - 929 BC | 938 BC - 929 BC | 9 years | 47-56 | Son |
+| [Aedan II] | 958 BC - 922 BC | 929 BC - 922 BC | 7 years | 29-36 | Son |
+| [Ivor II] | 938 BC - 879 BC | 922 BC - 879 BC | 43 years | 16-59 | Son |
+| [Alaric II] | 915 BC - 848 BC | 879 BC - 848 BC | 31 years | 36-67 | Son |
+| [Andre V] | 898 BC - 831 BC | 848 BC - 831 BC | 17 years | 50-67 | Son |
+| [Aedan III] | 857 BC - 809 BC | 831 BC - 809 BC | 22 years | 26-48 | Son |
+| [Alvina I] | 815 BC - | 809 BC - | >20 years | 6- | Daughter |
+| [Alvina I] | 792 BC - | ? - ? | ?  | ?-? | Son |
 | Mara [^p] | 1218 - 1289 | 1256 - 1272 | 16 years | 38-54 | |
 
 
