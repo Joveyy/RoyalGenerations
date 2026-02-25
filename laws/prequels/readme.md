@@ -1,6 +1,31 @@
 # Succession
-| # | Timespan          | Sovereign                                                                                                                                                                                                                                                                                                                                                                                                                  | Heir Criteria                                                                                  | Other Criteria                                                                                                                                      |
-|---|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | 1272 BC - 1200 BC | A Sovereign shall reign a life tenure under the Office of Consul.                                                                                                                                                                                                                                                                                                                                                          | The eldest born descendants of the Maeve of Foundry with the preference of males over females. | A consort is of the same power and rights of the sovereign, though will lose their authority when the King/Queen Regnant has concluded their reign. |
-| 2 | 1200 BC - 792 BC  | A Sovereign shall reign a life tenure under the Office of the Monarchy of Foundry Cove.                                                                                                                                                                                                                                                                                                                                    | The eldest born descendants of the Maeve of Foundry with the preference of males over females. | A consort is of the same power and rights of the sovereign, though will lose their authority when the King/Queen Regnant has concluded their reign. |
-| 3 | 792 BC - ?        | A Sovereign shall reign under the Office of the Monarchy of Foundry Cove, considering the following conditions:<br><br>1. **Male Sovereign - Male Heir**: Heir yet to attain the age of 21.<br><br><br>2. **Female Sovereign - Male Heir**: Heir yet to attain the age of 18.<br><br><br>3. **Male Sovereign - Female Heir**: Life Tenure.<br><br>4. **Female Sovereign - Female Heir**: Heir yet to attain the age of 35. | The eldest born descendants of the Maeve of Foundry with the preference of males over females. | A consort is of the same power and rights of the sovereign, though will lose their authority when the King/Queen Regnant has concluded their reign. |
+
+<table>
+  <tr>
+    <td>No.</td>
+    <td>Timespan</td>
+    <td>Sovereign</td>
+    <td>Heir Criteria</td>
+    <td>Other Criteria</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1272 BC - 1200 BC</td>
+    <td>Life tenure<hr><b>Office:</b> Consul of Foundry Cove</td>
+    <td rowspan=3>Eldest born descendants of Maeve of Foundry:<hr>Male Preference Primogeniture</td>
+    <td rowspan=3>Consorts hold equivalent powers and rights of the Sovereign, as long as married and reign</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>1200 BC - 767 BC</td>
+    <td>Life tenure<hr><b>Office:</b> King or Queen of Foundry Cove</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>767 BC - </td>
+    <td>Limited tenure under conditions:<hr>
+      - Male Heirs shall ascend at age 15.<br>
+      - Female Heirs shall ascend at age 25.
+      <hr><b>Office:</b> King or Queen of Foundry Cove</td>
+  </tr>
+</table>
