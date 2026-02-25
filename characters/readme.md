@@ -117,8 +117,11 @@
 | [Alaric II] | 915 BC - 848 BC | 879 BC - 848 BC | 31 years | 36-67 | Son |
 | [Andre V] | 898 BC - 831 BC | 848 BC - 831 BC | 17 years | 50-67 | Son |
 | [Aedan III] | 857 BC - 809 BC | 831 BC - 809 BC | 22 years | 26-48 | Son |
-| [Alvina I] | 815 BC - | 809 BC - | >20 years | 6- | Daughter |
-| [Alvina I] | 792 BC - | ? - ? | ?  | ?-? | Son |
+| [Alvina I] | 815 BC - 752 BC | 809 BC - 769 BC | 40 years | 6-46 | Daughter |
+| [Hypnos I] | 792 BC - 767 BC | 769 BC - 767 BC | 2 years  | 23-25 | Son |
+| [Alvina I]  [^d] | 815 BC - 752 BC | 767 BC - 757 BC | 10 years | 48-58 | Mother |
+| [Romanus I] | 772 BC - ? | 757 BC - 747 BC | 10 years  | 15-25 | Grandson |
+| [Tiberius I] | 762 BC - ? | 747 BC - ? | >1 year  | 15- | Son |
 | Mara [^p] | 1218 - 1289 | 1256 - 1272 | 16 years | 38-54 | |
 
 
@@ -126,6 +129,7 @@
 [Alaric]: BC_1299_1200/PQ_01_Alaric.md
 [Crawlach]: BC_1299_1200/PQ_02_Crawlach.md
 [Vaughan]: BC_1299_1200/PQ_03_Vaughan.md
+[Alvina I]: BC_799_700/PQ_Alvina_I.md
 
 [^p]: This individual has not been created yet
 [^k]: Was a conjoined twin, but born after/from the domain. Referred to as a Grandchild.
