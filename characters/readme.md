@@ -120,8 +120,9 @@
 | [Alvina I] | 815 BC - 752 BC | 809 BC - 769 BC | 40 years | 6-46 | Daughter |
 | [Hypnos I] | 792 BC - 767 BC | 769 BC - 767 BC | 2 years  | 23-25 | Son |
 | [Alvina I]  [^d] | 815 BC - 752 BC | 767 BC - 757 BC | 10 years | 48-58 | Mother |
-| [Romanus I] | 772 BC - ? | 757 BC - 747 BC | 10 years  | 15-25 | Grandson |
+| [Romanus I] | 772 BC - 728 BC | 757 BC - 747 BC | 10 years  | 15-25 | Grandson |
 | [Tiberius I] | 762 BC - ? | 747 BC - ? | >1 year  | 15- | Son |
+| [Ceres I] | 729 BC - ? |  |  | - | Daughter |
 | Mara [^p] | 1218 - 1289 | 1256 - 1272 | 16 years | 38-54 | |
 
 
